@@ -1,0 +1,21 @@
+calibration:
+  max_deep: 41.209886169433595
+  max_keypoints: 3.0030596256256104
+  max_vel: 277141.40625
+  min_deep: 7.386932373046875
+  min_keypoints: 0.0
+  min_vel: -46.251220703125
+paths:
+  shanghaitech:
+    frame_mask_gt: /path/to/testing/test_frame_mask
+    pixel_mask_gt: /path/to/testing/test_pixel_mask
+    results: /path/to/results/
+    testing_frames: /path/to/testing/frames/
+    testing_root: /path/to/testing/
+    training_frames: /path/to/training/frames/
+    training_root: /path/to/training/
+thresholds:
+  combined: 0.4
+  deep: 0.4
+  keypoints: 0.4
+  velocity: 3.262979335561987e-06

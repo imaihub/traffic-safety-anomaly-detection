@@ -1,0 +1,14 @@
+imagecodecs[all]
+opencv-python
+torch
+torchvision
+kornia
+natsort
+pynput
+yapf
+tqdm
+segment_anything
+requests
+lxml
+tensorboard
+matplotlib

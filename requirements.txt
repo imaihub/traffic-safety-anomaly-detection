@@ -1,0 +1,17 @@
+clip @ git+https://github.com/openai/CLIP.git
+fastapi
+numpy<2
+opencv-python==4.11.0.86
+pyyaml
+scikit-image
+scipy
+torchmetrics
+torchvision
+ultralytics==8.3.201
+faiss-gpu-cu12
+lxml
+kornia
+natsort
+scikit-learn
+imagecodecs
+huggingface_hub
